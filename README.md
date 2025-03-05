@@ -45,18 +45,6 @@ Other: assets (Images, icons, CSS, JS files)
 
 ---
 
-📥 Installation & Setup
-
-1️⃣ Clone the repository:
-
-git clone https://github.com/your-username/birthday-special-project.git
-
-2️⃣ Open index.html in a browser.
-3️⃣ Enjoy the birthday surprise! 🎂🎁
-
-
----
-
 💡 How to Use?
 
 1️⃣ Open the project in any browser.
@@ -76,6 +64,6 @@ Feel free to fork the repo, make improvements, and submit a PR. All contribution
 
 If you have any questions or suggestions, feel free to reach out:
 📩 Email: gj.anlxmi.n@gmail.com
-🔗 GitHub: your-username
+🔗 GitHub: Gagan6398
 
 
